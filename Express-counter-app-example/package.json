@@ -1,0 +1,23 @@
+{
+  "name": "thinkful-counter-example",
+  "version": "0.0.1",
+  "description": "Simple counter app to demo Express stack",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.0.0-alpha.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Thinkful-Ed/hyper-dev-counter-example"
+  },
+  "keywords": [
+    "thinkful",
+    "node",
+    "hyperdev",
+    "express"
+  ],
+  "license": "MIT"
+}
